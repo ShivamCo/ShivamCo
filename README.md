@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamCo
 - 👀 I’m interested in AI, Web3 and ML
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently working as Full Stack Developer (MERN)
 - 💞️ I’m looking to collaborate on MERN and web3
 - 📫 How to reach me DM
 
